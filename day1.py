@@ -1,12 +1,15 @@
+#Here I learened how a file can be:
+# read
+# stripped
+# splitted for every new line
+# change a string into a number value with int
+# how to add two or more int with += until \n occurs.
 
 
 #Getting data
 with open('day1.in') as file: #Open the input with list of numbers
     input = [i for i in file.read().strip().split("\n")] #list is called input, and each string is read, stripped of eventual whitespaces and splits each string into it's own value including stings with only whitespaces.
     
-
-
-
 
 max = 0
 max2 = 0
