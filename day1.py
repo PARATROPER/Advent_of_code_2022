@@ -1,7 +1,7 @@
-#Here I learened how a file can be:
-# read
-# stripped
-# splitted for every new line
+#Here I learened:
+# read()
+# strip()
+# split() & split('\n') for every new line
 # change a string into a number value with int
 # how to add two or more int with += until \n occurs.
 
